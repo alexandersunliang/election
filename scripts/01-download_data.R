@@ -23,9 +23,6 @@ ces2020 <-
   ) |>
   select(votereg, CC20_410, gender, educ)
 
-write_csv(ces2020, "ces2020.csv")
-
-
 
 #### Save data ####
 # [...UPDATE THIS...]

@@ -21,7 +21,6 @@ bibliography: references.bib
 library(boot)
 library(broom.mixed)
 library(collapse)
-library(dataverse)
 library(gutenbergr)
 library(janitor)
 library(knitr)
