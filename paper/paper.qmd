@@ -21,7 +21,6 @@ bibliography: references.bib
 library(tidyverse)
 library(palmerpenguins)
 ```
-quarto install tinytex
 
 # Introduction
 
